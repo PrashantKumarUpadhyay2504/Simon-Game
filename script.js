@@ -12,6 +12,8 @@ $(document).keypress(function() {
   }
 });
 
+
+
 $(".btn").click(function() {
 
   var userChosenColour = $(this).attr("id");
